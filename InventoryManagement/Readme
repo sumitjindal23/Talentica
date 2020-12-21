@@ -1,0 +1,10 @@
+Steps to run this project:-
+
+Run install.cmd script in database folder to run the ddl and seed data.
+Added BaseAuth with 5 users with password for User driver access control
+username  password
+patrick   patrick
+alex      alex
+john      john
+namhm     namhm
+admin     admin 
